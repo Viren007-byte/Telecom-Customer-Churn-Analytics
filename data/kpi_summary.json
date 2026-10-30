@@ -1,0 +1,11 @@
+{
+  "customers": 3000,
+  "churned_customers": 893,
+  "retained_customers": 2107,
+  "churn_rate_pct": 29.77,
+  "monthly_revenue": 189919.17,
+  "monthly_revenue_lost": 60343.19,
+  "average_monthly_charge": 63.31,
+  "average_tenure_months": 36.9,
+  "note": "Synthetic sample data; metrics are descriptive, not causal."
+}
